@@ -1,0 +1,10 @@
+/* 
+* چون عکس رو گذاشتم داخل یه پوشه دیگه کنار پوشه  سی اس اس، ما باید اول از اینجا که هستیم یه پوشه به عقب برگردیم با ../ و بعد بریم داخل پوشه عکس ها
+*/
+
+body{
+    /* background-image: url(skiing-wallpaper-1600x900.jpg); */
+    background-image: url(../images/skiing-wallpaper-1600x900.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} 
