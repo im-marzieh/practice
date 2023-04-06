@@ -1,0 +1,34 @@
+body{
+    background-image: url(./1571242-پس-زمینه-رنگی-آبرنگ.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    margin: 100px;
+    padding: 150px;
+   margin-left: 300px;
+}
+span{
+    font-size: xx-large;
+}
+i{
+    font-size: xx-large;
+}
+button{
+    border: 1px solid black;
+}
+button:hover{
+    background-color: rgb(219, 186, 219);
+}
+button:visited{
+    background-color: rgb(165, 221, 223);
+}
+#style{
+    color: rgb(0, 38, 255);
+}
+#style:hover{
+    color: yellow;
+}
+#style:visited{
+    color: deeppink;
+}
